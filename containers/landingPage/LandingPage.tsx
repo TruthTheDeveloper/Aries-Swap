@@ -6,4 +6,4 @@ const LandingPage: NextPage = () => {
     )
   }
   
-  export default LandingPage
+  export default LandingPage;
