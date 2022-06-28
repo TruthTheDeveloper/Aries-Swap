@@ -1,0 +1,1 @@
+Landingpage components contains only components unique to the Landingpage page
